@@ -2,7 +2,7 @@
   [0],
   {
     20: function (e, n, t) {
-      e.exports = t.p + "static/media/cryptomonedas.96e45d69.png";
+      e.exports = t.p + "./static/media/cryptomonedas.96e45d69.png";
     },
     21: function (e, n, t) {
       e.exports = t(46);
