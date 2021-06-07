@@ -25,6 +25,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "96e45d694833f161c9dc02ab9dde4a6b",
-    "url": "/static/media/cryptomonedas.96e45d69.png"
+    "url": "./static/media/cryptomonedas.96e45d69.png"
   }
 ]);
